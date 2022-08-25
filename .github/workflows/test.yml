@@ -1,4 +1,5 @@
 name: ssh command
+on: [push]
 jobs:
 
   build:
